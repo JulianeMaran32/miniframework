@@ -1,4 +1,9 @@
 # miniframework
-Arquitetura MVC com PHP
 
-Modelo de framework criado com base em curso extracurricular, com objetivo de adquirir experiência.
+Arquitetura MVC com PHP - estrutura de pastas:
+App
+public
+vendor
+composer.json
+composer.lock
+composer.phar
