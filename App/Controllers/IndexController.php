@@ -1,13 +1,17 @@
 <?php
 
+// Pt - Controllers - são classes controladoras, que são responsáveis por fazer o intermédio entre o diretório Model e o diretório Views.
+// En - Controllers - are controller classes, which are responsible for making the intermediate between the Model directory and the Views directory.
+
+// namespace - 
 namespace App\Controllers;
 
-//os recursos do miniframework
+// recursos do miniframework
 use MF\Controller\Action;
 use MF\Model\Container;
 
 
-//os models
+// models
 use App\Models\Produto;
 use App\Models\Info;
 
