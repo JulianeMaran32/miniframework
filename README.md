@@ -1,9 +1,5 @@
-# miniframework
+# Mini Framework
 
-Arquitetura MVC com PHP - estrutura de pastas:
-App
-public
-vendor
-composer.json
-composer.lock
-composer.phar
+Para o desenvolvimento desse modelo, foi utilizado arquitetura MVC para PHP:
+* composer
+
